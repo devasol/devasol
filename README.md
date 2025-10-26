@@ -32,7 +32,7 @@
       <td align="center"><img alt="Tailwind CSS" height="80px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></td>
       <td align="center"><img alt="Redux" height="80px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></td>
       <td align="center"><img alt="Node.js" height="80px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></td>
-      <td align="center"><img alt="Express" height="80px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"></td>
+      <td align="center"><img alt="Express.js" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></td>
    </tr>
    <tr>
       <td align="center"><img alt="MongoDB" height="80px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></td>
