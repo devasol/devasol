@@ -2,15 +2,14 @@
 
 <div align="left" width="100%" height="100%"> 
  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawit-solomon)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:dawitsolomon.dev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dawitdev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=.for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddawit-solomon-0450602a0)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:dawit8908@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Dawit_Solomon_T)
 </div>
 
 <h4 style="font-size : 20px;">👋 Hello! I'm Dawit Solomon, a passionate Frontend Developer from Ethiopia. I love building modern, interactive web apps using JavaScript, React, and Node.js. I'm always learning new things and enjoy turning ideas into real, functional projects. When I'm not coding, I'm exploring new technologies or improving my problem-solving skills through DSA and open-source projects.<h4>
 
-<h2>Some of the technologies I work with ❤️</h2>
+<h2>Some of the technologies I work with</h2>
 
 <h4>Programming Languages</h4>
  
